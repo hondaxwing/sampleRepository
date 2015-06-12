@@ -7,7 +7,6 @@
 	<name>sample_Project</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
-  	<url>http://maven.apache.org</url>
   
 	<properties>
 		<java-version>1.7</java-version>
